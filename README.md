@@ -1,7 +1,8 @@
 ### Olá! Eu sou a Rayssa Nunes 👋
 
-- 📕 Atualmente estou cursando Sistemas para Internet no Instituto Federal da Paraíba
-- 💬 Pergunte sobre o curso de TSI
+- 📕 Formada em Sistemas para Internet pelo Instituto Federal da Paraíba (IFPB)
+- 💬 Pergunte sobre tecnologias
+- :bar_chart: Aprendendo sobre Dados e Inteligência Artificial
   
 ## Tecnologias e Ferramentas
 <div>
